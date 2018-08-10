@@ -8,7 +8,7 @@ We utlized scaelles' [TensorFlow based model for our project](https://github.com
 
 2. Continuing, follow steps one and two under Demo Online Training and Testing.
 
-3. Follow steps one through five on Training the Parent Network. This will be required to ensure that you can create your own unique parent directory.
+3. Follow steps one through five on Training the Parent Network. This will be required to ensure that you can create your own unique parent model.
 
 4. Place your desired pictures to train your new model with under 480p or 1080p (depending on resolution) in the folders JPEGImages and Annotations. The .jpg versions of the files should go in JPEGImages, and the .png files should go under Annotations.
 
