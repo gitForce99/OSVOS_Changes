@@ -12,7 +12,7 @@ This project was dedicated to taking scaelles' [OSVOS TensorFlow based model](ht
 
 4. Place your desired pictures to train your new model with under 480p or 1080p (depending on resolution) in the folders JPEGImages and Annotations. The .jpg versions of the files should go in JPEGImages, and the .png files should go under Annotations.
 
-5. Edit the train_parent file so that it only contains the directories of the pictures that you want to use to train the model. They should all be in the following format per line:
+5. Edit the train_parent file so that it only contains the file names of the pictures that you want to use to train the model. They should all be in the following format per line:
 
   JPEGImages/480p/imageFolder/imageName1.jpg Annotations/480p/imageFolder/imageName1.png
 
