@@ -17,3 +17,9 @@ This project was dedicated to taking scaelles' [OSVOS TensorFlow based model](ht
   JPEGImages/480p/imageFolder/imageName1.jpg Annotations/480p/imageFolder/imageName1.png
 
 6. Run ```python osvos_parent_demo.py```.
+
+
+
+# Credits
+
+Special thanks goes out to scaelles, whose [OSVOS_Tensorflow respository](https://github.com/scaelles/OSVOS-TensorFlow) helped us get off the ground for this oneshot learning project.
