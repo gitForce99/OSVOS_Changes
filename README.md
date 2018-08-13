@@ -15,3 +15,5 @@ We utlized scaelles' [TensorFlow based model for our project](https://github.com
 5. Edit the train_parent file so that it only contains the directories of the pictures that you want to use to train the model. They should all be in the following format per line:
 
   JPEGImages/480p/imageFolder/imageName1.jpg Annotations/480p/imageFolder/imageName1.png
+
+6. Run 'python osvos_parent_demo.py'.
