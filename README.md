@@ -1,8 +1,8 @@
-# OSVOS_Changes
+## OSVOS_Changes
 Changes from original OSVOS files for project.
 
-We utlized scaelles' [TensorFlow based model for our project](https://github.com/scaelles/OSVOS-TensorFlow).
-
+# Introduction
+This project was dedicated to taking scaelles' [OSVOS TensorFlow based model](https://github.com/scaelles/OSVOS-TensorFlow) and reconfiguring it to work with images of people that we added in ourselves.
 
 1. From scaelles, follow steps one through three under installation.
 
