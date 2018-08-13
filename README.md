@@ -16,7 +16,7 @@ This project was dedicated to taking scaelles' [OSVOS TensorFlow based model](ht
 
   JPEGImages/480p/imageFolder/imageName1.jpg Annotations/480p/imageFolder/imageName1.png
 
-6. Run ```python osvos_parent_demo.py```.
+6. Run ```python osvos_parent_demo.py```. This will start to train the new parent model, and can vary in length of time depending on the number of attempts and photos used. For the base parent model in scaelles, it should take about 20 hours. Having a GPU will greatly speed up the process of training the parent model.
 
 
 
