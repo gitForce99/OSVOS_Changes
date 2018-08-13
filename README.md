@@ -1,5 +1,5 @@
 # OSVOS_Changes
-Changes from original OSVOS files for project.
+Changes from original OSVOS files for project, will hopefully have our parent and child models soon.
 
 ## Introduction
 This project was dedicated to taking scaelles' [OSVOS TensorFlow based model](https://github.com/scaelles/OSVOS-TensorFlow) and reconfiguring it to work with images of people that we added in ourselves.
