@@ -16,4 +16,4 @@ We utlized scaelles' [TensorFlow based model for our project](https://github.com
 
   JPEGImages/480p/imageFolder/imageName1.jpg Annotations/480p/imageFolder/imageName1.png
 
-6. Run '''python osvos_parent_demo.py'''.
+6. Run ```python osvos_parent_demo.py```.
