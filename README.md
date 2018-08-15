@@ -1,4 +1,4 @@
-# OSVOS_Changes
+# OSVOS_Project_Tensorflow
 Changes from original OSVOS files for project, will hopefully have our parent and child models soon.
 
 ## Introduction
